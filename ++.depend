@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1675910945 source:c:\users\tom17\documents\wechat files\20220909\++\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1674636410 source:c:\users\tom17\documents\wechat files\20220909\++\main1.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1675912330 source:c:\users\tom17\documents\wechat files\20220909\++\main.header.c
+
+1676107018 source:c:\users\tom17\documents\wechat files\20220909\++\职工管理系统.cpp
+	<iostream>
+	"head.h"
+
+1729667802 source:c:\users\tom17\documents\wechat files\20220909\++\workermanager.cpp
+	"head.h"
+
+1677655421 c:\users\tom17\documents\wechat files\20220909\++\head.h
+	<iostream>
+	<string>
+	<fstream>
+
+1677653947 source:c:\users\tom17\documents\wechat files\20220909\++\三资企业管理系统.cpp
+	<iostream>
+	"head.h"
+
+1676288472 source:c:\users\tom17\documents\wechat files\20220909\++\qq.cpp
+	<iostream>
+	"head.h"
+
