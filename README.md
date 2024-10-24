@@ -96,6 +96,21 @@
   }
   ```
 
+- **登录菜单** (`SHOW_MENU`)：
+
+```
+Welcome to the employee management system!
+
+0. Exit the management program
+1. Add employee information
+2. Display employee information
+3. Delete job-hopping employees
+4. Modify employee information
+5. Find employee information
+6. Sort by number
+7. Clear all documents
+```
+
 
 ## 联系方式
 
@@ -103,4 +118,4 @@
 
 - 邮箱：[xianggeng00@gmail.com]
 
-我们期待您的宝贵意见，共同改进这个管理系统。
+期待您的宝贵意见，共同改进这个管理系统。
